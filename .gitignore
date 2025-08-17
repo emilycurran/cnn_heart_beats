@@ -10,3 +10,7 @@
 # Allow the src folder and everything inside it
 !src/
 !src/**
+
+# Allow the data folder, but ignore its contents except for .gitkeep
+!data/
+!data/.gitkeep
