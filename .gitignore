@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep these top-level files if you add them
+!.gitignore
+!README.md
+!requirements.txt
+!LICENSE
+
+# Allow the src folder and everything inside it
+!src/
+!src/**
